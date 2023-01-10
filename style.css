@@ -1,5 +1,28 @@
-body {background-color: red}
+body {background-color: silver}
 
-h3 {color: blue;
+h3 {color: lightpurple;
 text-align: center;
-font-size: 40px}
+font-size: 100px;
+  text-shadow: 2px 2px 5px purple;}
+img { border: black 2x;
+width: 400px;
+height: 400px}
+nav{list-style-type:none;
+position:fixed;
+background-color:purple;
+width: 100%;
+top:0;
+left:0}
+li{
+  display:inline;
+  padding: 15px;
+  float: right
+}
+li:hover{
+ background-color:white;
+}
+a{
+  text-decoration:none;
+  color:black;
+  text-font:20
+}
