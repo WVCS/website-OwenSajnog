@@ -1,6 +1,6 @@
-body {background-color: silver}
+body {background-color: white}
 
-h3 {color: lightpurple;
+h3 {color: lightpink;
 text-align: center;
 font-size: 100px;
   text-shadow: 2px 2px 5px purple;}
@@ -9,7 +9,7 @@ width: 400px;
 height: 400px}
 nav{list-style-type:none;
 position:fixed;
-background-color:purple;
+background-color:lightblue;
 width: 100%;
 top:0;
 left:0}
